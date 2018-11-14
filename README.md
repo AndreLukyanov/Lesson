@@ -1,2 +1,1 @@
-# Lesson
-Lesson
+# Home work tasks for JavaScript course
